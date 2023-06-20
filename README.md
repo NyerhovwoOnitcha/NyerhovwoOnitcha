@@ -16,16 +16,17 @@
 </div>
 
 <div id="badges"  align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/nyerhovwo-onitcha">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/UnclePauly_?t=0BjJVBY9TQ33rd69BGu00A&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="#">
+    <img  src="https://komarev.com/ghpvc/?username=NyerhovwoOnitcha&style=for-the-badge&color=green" alt="profile-view-counter"/>
+  </a>
 </div>
+
 
 
 
