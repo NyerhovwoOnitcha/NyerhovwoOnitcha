@@ -27,7 +27,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhOWRyMmd3a2QxZzJkdngxZ3U3bDQ2cXNxNWI5d3R6bTljbWt1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200"/>
 </div>
 
-- :technologist: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :technologist: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :weight_lifting_man: I'm currently searching for DevOps roles
 - :seedling: I have a Blog where I do some writing from time to time
 
