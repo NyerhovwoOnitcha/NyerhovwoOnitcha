@@ -28,7 +28,7 @@
 </div>
 
 - :technologist: I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :weight_lifting_man: I'm currently searching for DevOps roles
+- :weight_lifting_man: I'm currently exploring the DevOps world
 - :seedling: I have a Blog where I do some writing from time to time
 
 - :lotus_position_man: In my free time, I watch football and MMA
